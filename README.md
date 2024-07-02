@@ -12,12 +12,11 @@ Here I write about the data
 
 
 ## Contact:
-Arjen van Putten
+Arjen van Putten \
 e-mail (valid until end 2024) a.vanputten1@uu.nl 
 
-[Mona Giersberg ](https://www.uu.nl/staff/MFGiersberg)
-[Bas Rodenburg](https://www.uu.nl/staff/TBRodenburg)
+[Mona Giersberg ](https://www.uu.nl/staff/MFGiersberg) \
+[Bas Rodenburg](https://www.uu.nl/staff/TBRodenburg)\
 
 
-[Research group at Utrecht University](https://www.uu.nl/staff/organisationalchart/dgk/203/1036
-)
+[Research group at Utrecht University - Animals in Science and Society](https://www.uu.nl/staff/organisationalchart/dgk/203/1036)
