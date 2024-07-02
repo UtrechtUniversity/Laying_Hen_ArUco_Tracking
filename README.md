@@ -1,8 +1,5 @@
 # Laying_Hen_ArUco_Tracking
-:baby_chick:
-:hatched_chick:
-:hatching_chick:
-:chicken:
+:movie_camera: :hatching_chick: :hatched_chick: :baby_chick: :chicken:
 
 doi to be added
 
