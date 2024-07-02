@@ -1,17 +1,20 @@
 # Laying_Hen_ArUco_Tracking
 doi to be added
+
+:bird:
+:baby_chick:
+:hatched_chick:
+:hatching_chick:
+:chicken:
+
 Examine tracking of Laying Hen backpacks with ArUco markers
 
 ## available data:
 Here I write about the data
 
 ## overview of the scripts:
-:snake:
-:bird:
-:baby_chick:
-:hatched_chick:
-:hatching_chick:
-:chicken:
+All code is written in Python :snake: for speed and to enable future upscale and deal with the current large data size. 
+
 
 1. combine the different scripts
 2. examine the quality of tracking in numbers
