@@ -6,6 +6,13 @@ Examine tracking of Laying Hen backpacks with ArUco markers
 Here I write about the data
 
 ## overview of the scripts:
+:snake:
+:bird:
+:baby_chick:
+:hatched_chick:
+:hatching_chick:
+:chicken:
+
 1. combine the different scripts
 2. examine the quality of tracking in numbers
 3. examine the quality of tracking visually
@@ -13,7 +20,7 @@ Here I write about the data
 
 ## Contact:
 Arjen van Putten \
-e-mail (valid until end 2024) a.vanputten1@uu.nl 
+e-mail: a.vanputten1@uu.nl 
 
 [Mona Giersberg ](https://www.uu.nl/staff/MFGiersberg) \
 [Bas Rodenburg](https://www.uu.nl/staff/TBRodenburg
@@ -21,3 +28,5 @@ e-mail (valid until end 2024) a.vanputten1@uu.nl
 
 
 [Research group at Utrecht University - Animals in Science and Society](https://www.uu.nl/staff/organisationalchart/dgk/203/1036)
+
+This paper contributes to one of the subprojects of the [IMAGEN](https://www.nwo.nl/onderzoeksprogrammas/perspectief/perspectief-toekenningen/animal-group-sensor-integrating-behavioural-dynamics-and-social-genetic-effects-to-improve-health-welfare-and-ecological-footprint-of-livestock-imagen) program 
