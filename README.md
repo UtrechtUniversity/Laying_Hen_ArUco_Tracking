@@ -1,11 +1,12 @@
 # Laying_Hen_ArUco_Tracking
-doi to be added
-
-:bird:
 :baby_chick:
 :hatched_chick:
 :hatching_chick:
 :chicken:
+
+doi to be added
+
+
 
 Examine tracking of Laying Hen backpacks with ArUco markers
 
@@ -22,7 +23,7 @@ All code is written in Python :snake: for speed and to enable future upscale and
 
 
 ## Contact:
-Arjen van Putten \
+[Arjen van Putten](https://www.uu.nl/staff/AvanPutten) \
 e-mail: a.vanputten1@uu.nl 
 
 [Mona Giersberg ](https://www.uu.nl/staff/MFGiersberg) \
